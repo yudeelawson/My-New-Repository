@@ -1,2 +1,5 @@
 # My-New-Repository
-About Me
+"Hello Sugar Labs"
+                                                     MY PROFILE
+FIRST NAME: Uduak-Abasi
+LAST NAME: Linus
